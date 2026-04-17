@@ -39,6 +39,10 @@ One challenge was handling inconsistent data from the API (missing covers, autho
 Live Demo
 mood-book-cbr3qrznr-tyagisoumya16s-projects.vercel.app
 
+Video link:
+
+https://drive.google.com/file/d/1Ho3wOY2z4-W2Ii0-JnqZvqNGIUOa1r9b/view?usp=drivesdk
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

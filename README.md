@@ -1,9 +1,10 @@
 # Mood-based-book-finder
 
-Who is this for?
+#Who is this for?
+
 This app is designed for people who enjoy reading but often struggle to decide what to read next. Instead of searching randomly, users can simply select their current mood.
 
-Problem
+#Problem:
 While exploring books online, I realized that most platforms require users to know what they are looking for. But many times, the real problem is not "finding a book", it's "deciding what to read".
 
 Solution
@@ -13,7 +14,7 @@ I built a mood-based book discovery app where users can either:
 
 The app then fetches relevant books using the Open Library API.
 
-Features
+#Features:
 - Mood-based recommendations
 - Search functionality
 - Responsive design (mobile + desktop)
@@ -21,25 +22,23 @@ Features
 - Error handling for failed requests
 - Graceful empty state when no results found
 
-Key Decisions
+#Key Decisions:
 - Used React for component-based structure
 - Chose Tailwind CSS for faster UI development
 - Limited results to improve performance and readability
 - Focused on handling edge cases (loading, empty, error)
 
-Challenges
+#Challenges:
 One challenge was handling inconsistent data from the API (missing covers, authors). I handled this by adding fallback UI.
 
-What I would improve
+#What I would improve?
 - Add bookmarking (save books)
 - Improve recommendation logic (more personalized)
 - Add filters (genre, year)
 
 Live Demo
-(link here)
+mood-book-cbr3qrznr-tyagisoumya16s-projects.vercel.app
 
-GitHub Repo
-(link here)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
